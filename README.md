@@ -1,11 +1,25 @@
 ## Hi there 👋
 
+📢 Nominate ([@nasrinpathan](https://github.com/nasrinpathan/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate her hard work and dedication to open source.
+
 # 👋 Hi, I'm Nasrin
 
-Welcome to my GitHub profile!  
-This space is powered by the special repository **nasrinpathan/nasrinpathan**.
+Welcome to my GitHub profile! Python enthusiast,Pyscript hacker and Founder.I have given my contribution to Buckaroo,Jupyter lab tab Extension and Pyscript.Worked on single link web development as the secured way of web development. I like working on my own projects.Three of my major projects are 'Scrape based prediction of actors' , 'Alexa can play word building' and 'Web development in Jupiter Notebook'. Scrape based prediction of actors is inspired from the project facial recognition application.Facial recoginition was just to predict faces. I wanted to automate the process from searching the actors names to downloading the images and predicting them.Alexa can play word building project was inspired from a toy which my son used to play.I couldn't find the unusual batteries for his toy but wrote a code for him to play.Web Development in jupyter notebook happened because i wanted to try and end to end project.Having less knowledge on coding was trying my project on jupyter notebook and web Development in jupyter notebook happened.Current research is on VPN.Using VPN how you can make one country projects work in other country.How without changing your identity you can work in other countries.I was told to hire a person in India to get a job in UK.I belong to both the countries.With VPN my Indian projects work and without VPN my UK project are going to work.A person who worked for years in a place is scared of moving to a new place because your mobile locations define your experience and it's business for others if you move to a new place and you are going to be jobless in new place.It's seperating husband-wife relationship.Either one person has to sacrifice there profession to stay together or both of them are working in there respective locations to retain their job.If two identities are in same place one has to replace another.It's like a banner for other country folks to invite to you country. Currently working on Scrape based prediction of actors how can I make it work in UK using VPN.
 
 ---
+
+#### 📧 You can contact me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/nasrin-pathan-53055037)
+
+*I am open to new opportunities.*
+
+----
+
+#### 🔎 You can find me on: 
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Project-nf3wo)
+[![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21920849/nasrin begum pathan)
+
 
 ## 🏆 Custom Achievements
 
@@ -26,6 +40,8 @@ Here are some badges I created myself:
 ## 🔧 Tools & Technologies
 
 - Git Bash
+- python
+- SQl-server
 - JavaScript / Node.js
 - CSS / UI customization
 - GitHub Actions
@@ -38,17 +54,20 @@ Here are some badges I created myself:
 Feel free to explore my repositories or reach out!
 
 
-<!--
+
 **nasrinpathan/nasrinpathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Github.
+- 🌱 I’m currently learning Updating Github.
+- 👯 I’m looking to collaborate on Anaconda inc.
+- 🤔 I’m looking for help with Github collabration with pyscript.
+- 💬 Ask me about my research.
+- 📫 How to reach me: Website.
+- 😄 Pronouns: Women
+- ⚡ Fun fact: One's i was walking around the ground taking turns for a morning walk holding a pencil.In the first round unknowing pencil fell to the ground.In the sencond round i found the lost pencil. Moral-Walk on the same path to get back lost things😄.
+  
+
+
+
