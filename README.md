@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Python enthusiast,Pyscript hacker and Founder.I ha
 #### 🔎 You can find me on: 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Project-nf3wo)
-[![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21920849/nasrin begum pathan)
+[![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21920849/nasrin-begum-pathan)
 
 
 ## 🏆 Custom Achievements
