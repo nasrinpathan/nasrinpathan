@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my research.
 - 📫 How to reach me: Website.
 - 😄 Pronouns: Women
-- ⚡ Fun fact: One's i was walking around the ground taking turns for a morning walk holding a pencil.In the first round unknowing pencil fell to the ground.In the sencond round i found the lost pencil. Moral-Walk on the same path to get back lost things😄.
+- ⚡ Fun fact: One's i was walking around the ground taking turns for a morning walk holding a pencil.In the first round unknowing pencil fell to the ground.In the second round i found the pencil and realised it was mine. Moral-Walk on the same path to get back lost things😄.
   
 
 
