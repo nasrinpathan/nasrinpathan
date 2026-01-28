@@ -23,21 +23,7 @@ Welcome to my GitHub profile! Python enthusiast,Pyscript hacker and Founder.I ha
 
 ## 🏆 Custom Achievements
 
-<p align="left">
-
-  <!-- Blue Square Achievement -->
-  <img src="achievement-blue.svg" height="60" alt="Blue Achievement"/>
-
-  <!-- Add more custom achievements here -->
-  <!-- Example:
-  <img src="achievement-gold.svg" height="60" alt="Gold Achievement"/>
-  <img src="achievement-purple.svg" height="60" alt="Purple Achievement"/>
-  <img src="achievement-neon.svg" height="60" alt="Neon Achievement"/>
-  -->
-
-</p>
-
----
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158" height="20" role="img" aria-label="Achievement: Blue Square"><title>Achievement: Blue Square</title><g shape-rendering="crispEdges"><rect width="81" height="20" fill="#555"/><rect x="81" width="77" height="20" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text x="415" y="140" transform="scale(.1)" fill="#fff" textLength="710">Achievement</text><text x="1185" y="140" transform="scale(.1)" fill="#fff" textLength="670">Blue Square</text></g></svg>
 
 ---
 
