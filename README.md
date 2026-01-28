@@ -23,7 +23,21 @@ Welcome to my GitHub profile! Python enthusiast,Pyscript hacker and Founder.I ha
 
 ## 🏆 Custom Achievements
 
-<p align="left"> <img src="badge-dark.svg" height="30" /> <!-- Add more badges here --> </p>
+<p align="left">
+
+  <!-- Blue Square Achievement -->
+  <img src="achievement-blue.svg" height="60" alt="Blue Achievement"/>
+
+  <!-- Add more custom achievements here -->
+  <!-- Example:
+  <img src="achievement-gold.svg" height="60" alt="Gold Achievement"/>
+  <img src="achievement-purple.svg" height="60" alt="Purple Achievement"/>
+  <img src="achievement-neon.svg" height="60" alt="Neon Achievement"/>
+  -->
+
+</p>
+
+---
 
 ---
 
