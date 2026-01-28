@@ -23,9 +23,7 @@ Welcome to my GitHub profile! Python enthusiast,Pyscript hacker and Founder.I ha
 
 ## 🏆 Custom Achievements
 
-Here are some badges I created myself:
-
-![Blue Achievement](achievement-blue.svg)
+<p align="left"> <img src="badge-dark.svg" height="30" /> <!-- Add more badges here --> </p>
 
 ---
 
@@ -67,6 +65,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Website.
 - 😄 Pronouns: Women
 - ⚡ Fun fact: One's i was walking around the ground taking turns for a morning walk holding a pencil.In the first round unknowing pencil fell to the ground.In the second round i found the pencil and realised it was mine. Moral-Walk on the same path to get back lost things😄.
+
+## 📊 GitHub Stats (Dark Mode)
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nasrinpathan&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrinpathan&layout=compact&theme=tokyonight" height="150"/> </p>
+
+## 🌐 Connect
+
+Thanks for visiting my profile — optimized for dark mode.
+
+
+
+
+
+
   
 
 
