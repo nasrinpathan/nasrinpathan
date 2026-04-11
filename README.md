@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Python enthusiast.I have given my contribution to 
 ---
 
 #### 📧 You can contact me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoCoom/in/nasrin-pathan-53055037)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoCoom/in/nasrin-pathan-53055037)
 
 *I am open to new opportunities.*
 
